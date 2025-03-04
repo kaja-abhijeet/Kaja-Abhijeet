@@ -16,4 +16,4 @@ kaja-abhijeet/kaja-abhijeet is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 # 📊 LeetCode Stats:
-![LeetCode Stats](https://leetcode-stats.herokuapp.com/?username=kaja-abhijeet)
+![LeetCode Stats](https://leetcode-stats.herokuapp.com/?username=always_abhijeet)
