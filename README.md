@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kaja Abhijeet
-- I am aiming to be a data scientist and collaborate in different projects :)
+- I am aiming to be a ai engineer and collaborate in different projects :)
 - In my repos there will be my journey from zero to hero in aiml projects....
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Deal Learning
