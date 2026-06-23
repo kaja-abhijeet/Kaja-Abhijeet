@@ -89,5 +89,3 @@
 
 ---
 
-## ⚡ Quote
-> "In my mind, I am the best. No matter what people say." – Cristiano Ronaldo
